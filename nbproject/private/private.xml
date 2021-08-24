@@ -4,21 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/Vendas/src/util/Principal.java</file>
-            <file>file:/D:/Vendas/src/util/PagamentoBoleto.java</file>
-            <file>file:/D:/Vendas/src/util/Pagamento.java</file>
-            <file>file:/D:/Vendas/src/util/Cliente.java</file>
-            <file>file:/D:/Vendas/src/util/Compra.java</file>
+            <file>file:/D:/Vendas/src/Crud/CrudPessoa.java</file>
             <file>file:/D:/Vendas/src/util/Fornecedor.java</file>
             <file>file:/D:/Vendas/src/util/Pessoa.java</file>
-            <file>file:/D:/Vendas/src/util/Usuario.java</file>
-            <file>file:/D:/Vendas/src/util/Data.java</file>
-            <file>file:/D:/Vendas/src/util/Produtos.java</file>
-            <file>file:/D:/Vendas/src/util/Venda.java</file>
-            <file>file:/D:/Vendas/src/util/Produto.java</file>
-            <file>file:/D:/Vendas/src/util/MainPagar.java</file>
-            <file>file:/D:/Vendas/src/util/ImplementandoData.java</file>
-            <file>file:/D:/Vendas/src/util/PagamentoCartao.java</file>
-            <file>file:/D:/Vendas/src/util/PagamentoDinheiro.java</file>
+            <file>file:/D:/Vendas/src/Controle/ControPessoa.java</file>
+            <file>file:/D:/Vendas/src/connections/ConexaoMySql.java</file>
         </group>
     </open-files>
 </project-private>
